@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Go and distributed system techs
+- 🌱 I’m currently learning Python and distributed system techs
 <!--
 **Solarsolo123/Solarsolo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
